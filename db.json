@@ -1,4 +1,17 @@
 {
+  "error": false,
+  "msg": "Länderinformationen",
+  "data": [
+    {
+      "country": "Los Santos"
+    },
+    {
+      "country": "Sandy Shores"
+    },
+    {
+      "country": "Blaine county"
+    }
+  ],
   "MomentLifeRP_Country_List": [
     { "id": 1, "country": "Los Santos" },
     { "id": 2, "country": "Sandy Shores" },
