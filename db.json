@@ -7,12 +7,12 @@
       "country": "Sandy Shores"
     },
     {
-      "country": "Blaine Country"
+      "country": "Blaine County"
     }
   ],
   "MomentLifeRP_Country_List": [
     { "id": 1, "country": "Los Santos" },
     { "id": 2, "country": "Sandy Shores" },
-    { "id": 3, "country": "Blaine Country" }
+    { "id": 3, "country": "Blaine County" }
   ]
 }
